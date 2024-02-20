@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**amink21/amink21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amin Kadawala. Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently studying Computer Science.
+- 💼 I'm passionate about building user-friendly and innovative software solutions and dedicated to exploring the intersection of art and technology to foster creativity.
+- 🌱 I'm currently learning new programming languages such as Python and JavaScript to broaden my expertise.
+- 📫 How to reach me: a_kadawa@live.concordia.ca.
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amink21&show_icons=true)
+
+## Let's Connect
+
+- [LinkedIn]((https://www.linkedin.com/in/amin-kadawala/))
+- [Portfolio Website]((https://aminkadawala.com/))
+
+Feel free to explore my repositories and get in touch! I'm always open to collaborations and discussions. 😊
