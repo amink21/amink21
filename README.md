@@ -15,7 +15,7 @@ I'm Amin Kadawala. Welcome to my GitHub profile! 🌟
 
 ## Let's Connect
 
-- [LinkedIn]((https://www.linkedin.com/in/amin-kadawala/))
-- [Portfolio Website]((https://aminkadawala.com/))
+- Linkedln: https://www.linkedin.com/in/amin-kadawala/
+- Portfolio Website: https://aminkadawala.com/
 
 Feel free to explore my repositories and get in touch! I'm always open to collaborations and discussions. 😊
