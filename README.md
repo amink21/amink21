@@ -11,7 +11,10 @@ I'm Amin Kadawala. Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amink21&show_icons=true)
+[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amink21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amink21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Let's Connect
 
